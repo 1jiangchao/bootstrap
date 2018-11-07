@@ -1,2 +1,2 @@
-# bootstarp
-bootstarp 幻灯片效果
+# bootstrap
+bootstrap 幻灯片效果
